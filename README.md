@@ -24,3 +24,5 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 This challenge was fun an unique but definitly required some research on the best syntax and methods to use in order to find reach the desired outcome. The biggest challenge I encounted as ensuring that the information input to the salary field was a whole number. It took some research to figuire out the isNanN and parseFloat expressions but in the end I was able to ensure the salary field was filled out popperly.
 
+To visit the website, click the link below!
+https://iconn21.github.io/EmployeePayroll/
